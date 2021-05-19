@@ -1,1 +1,1 @@
-# Stats-Probability-LMS-Exam
+# StatisticsAndProbability-LMS-Exam
